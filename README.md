@@ -1,2 +1,5 @@
 # Algorithms--miscellaneous
-Various algorithms I tried to implement myself in Java and JS, mostly after learning about them on Coursera. 
+
+Various exercises in Java and JS.
+
+The code is mostly based on the implementations presented in Princeton's Algorithms course on Coursera.
